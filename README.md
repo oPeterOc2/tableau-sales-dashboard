@@ -1,3 +1,7 @@
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Dataset](https://img.shields.io/badge/Data-Superstore-orange)
+![TWBX](https://img.shields.io/badge/File-.twbx-blueviolet)
 # 📊 Tableau Sales Dashboard (Superstore Dataset)
 
 This project is a **basic Tableau dashboard** built using the official Tableau *Sample – Superstore* dataset.  
