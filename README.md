@@ -24,7 +24,6 @@ Both charts are combined into a single dashboard.
 Selecting a bar in the bar chart automatically filters the line chart.
 
 ## 📁 Project Structure
-
 ```text
 tableau-sales-dashboard/
  ├── data/
@@ -35,7 +34,6 @@ tableau-sales-dashboard/
  │    └── dashboard.png
  └── README.md
  ```
-
 ## 🛠 Tools Used
 - Tableau Public (Web Version)
 - Sample – Superstore Dataset (Tableau Official Sample Data)
